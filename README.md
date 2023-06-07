@@ -20,8 +20,6 @@ For a long time I was just writing small projects in Python, trying to find some
 
  ### Information from Github:
 
-I don't know why it displays Jupiter, I'm waiting for it to update
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1MixDevil&layout=compact&theme=gruvbox_light )](https://github.com/anuraghazra/github-readme-stats)
 
 
