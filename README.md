@@ -1,11 +1,15 @@
-### I`m a beginner backend developer
+
+### I`m a backend developer
 
 ### About Me:
 For a long time I was just writing small projects in Python, trying to find something interesting. Now I have chosen backend development as my focus.
-- :receipt: I'm currently using Django/Drango Rest as my primary framework, but I plan to switch to another framework or even language this summer.
-- :biohazard: During my search for something interesting to do, I tried writing code in C#, Kotlin, and JavaScript, so I have a decent understanding of the basics of these languages.
-- :atom: For a while I considered fully transitioning into embedded development and working with Arduino and Raspberry, but in the end I decided against that idea.
-
+For a long time, I was just writing small projects in Python, trying to find something interesting. Now I've chosen backend development as my focus.
+- :receipt: Over a year of commercial development experience with Django REST Framework/FastAPI
+- :biohazard: Searching for interesting projects, actively learning Go
+- :atom: For a while, I considered fully transitioning to embedded development and working with Arduino and Raspberry Pi, but ultimately abandoned the idea, settling for a basic understanding of these technologies. I like to think of it as a fun side project!
+- :seedling: Always learning.
+- :rocket: Looking for opportunities to build scalable and reliable backend systems.
+- :computer: Passionate about clean code and efficient architecture.
 
 ### :hammer_and_wrench: Languages and Tools:
 
