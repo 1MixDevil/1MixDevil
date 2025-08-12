@@ -4,11 +4,12 @@
 ### About Me:
 For a long time I was just writing small projects in Python, trying to find something interesting. Now I have chosen backend development as my focus.
 For a long time, I was just writing small projects in Python, trying to find something interesting. Now I've chosen backend development as my focus.
-- :receipt: Over a year of commercial development experience with Django REST Framework/FastAPI
-- :biohazard: Searching for interesting projects, actively learning Go
-- :atom: For a while, I considered fully transitioning to embedded development and working with Arduino and Raspberry Pi, but ultimately abandoned the idea, settling for a basic understanding of these technologies. I like to think of it as a fun side project!
-- :seedling: Always learning.
-- :rocket: Looking for opportunities to build scalable and reliable backend systems.
+- :receipt: Over two years of commercial development experience with Django REST Framework/FastAPI
+- :gear: Experience with hardware integration: developed automated test systems for industrial controllers and climate modules using PyVISA, SEGGER JLink, and lab equipment (DP832, ASR72100)
+- :wrench: Designed Python frameworks for automated firmware flashing and hardware testing, created drivers for lab equipment, implemented current/voltage validation, short-circuit detection, and hysteresis testing with automated reporting
+- :penguin: Confident in Linux (Ubuntu) administration: systemd services, logs (journalctl), bash scripting, crontab, ufw, SSH, Nginx, Let's Encrypt
+- :seedling: Always learning
+- :rocket: Looking for opportunities to build scalable and reliable backend systems
 - :computer: Passionate about clean code and efficient architecture.
 
 ### :hammer_and_wrench: Languages and Tools:
